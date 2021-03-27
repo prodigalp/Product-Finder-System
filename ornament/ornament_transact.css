@@ -1,0 +1,107 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:550px;
+	margin:150px auto;
+	border-radius:10px;
+	box-shadow:0 0 .6em rgba(0,0,0,1);
+}
+
+#header {
+	color:#FFFF00;
+	background:#306EFF;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:1.4em;
+	letter-spacing:1px;
+	margin-bottom:10px;
+	border-radius:10px;
+	margin-bottom:15px;
+}
+
+#content ul {
+	list-style-type:none;
+	padding:0px;
+}
+
+#employ ul {
+	margin:0px 0px 0px 0px;
+}
+
+#employ li {
+	float:left;
+	margin:0px 0px 0px 10px;
+	
+}
+
+#employ li img {
+	height:80px;
+	width:80px;
+	padding:15px 0px 15px 0px;
+	box-shadow:0 0 .4em rgba(0,0,0,.6);
+	border-radius:10px;
+}
+
+#tag {
+	color:#000;
+	background:#FAF8CC;
+	text-align:center;
+	box-shadow:2px 2px 1px #000;
+	font-variant:small-caps;
+	font-weight:bold;
+	padding:3px;
+	margin:5px 0px 5px 0px;
+	border-radius:10px;
+}
+
+#tag a:link, a:visited {
+	color:#000;
+	backgroud:#00FF00;
+	text-decoration:none;
+}
+
+#tag a:hover {
+	color:#FFF;
+	background:#000;
+	border-radius:10px;
+	padding:2px;
+}
+
+#tag a:active {
+	color:#000;
+	background:#00FF00;
+	border-radius:5px;
+}
+
+#footer {
+	color:#FFF;
+	background:#000;
+	height:25px;
+	line-height:25px;
+	text-align:center;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:1em;
+	letter-spacing:1px;
+	border-radius:10px;
+	margin-top:5px;
+}
+
+
+#reset {
+	clear:both;
+}
+
+
+
+
+

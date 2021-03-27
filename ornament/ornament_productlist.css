@@ -1,0 +1,96 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+	font-size:100%;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:500px;
+	margin:30px auto;
+	border-radius:10px;
+	box-shadow:0 0 .7em rgba(0,0,0,1);
+}
+
+#wraper form { margin:0px; }
+
+h2 {
+	color:#FFFF00;
+	background:#306EFF;
+	margin:0px;
+	font-size:1.4em;
+	text-align:center;
+	height:30px;
+	line-height:30px;
+	font-variant:small-caps;
+	letter-spacing:1px;
+	margin-bottom:10px;	
+	border-radius:10px;
+}
+
+
+#content input[type="text"] {
+	border:1px SOLID #306EFF;
+	font-size:1.2em;
+	text-indent:5px;
+	padding:4px 0px 4px 0px;
+	border-radius:5px;
+	margin-bottom:10px;
+}
+
+#content input[type="submit"], input[type="button"] {
+	color:#FFF;
+	background:#306EFF;
+	font-size:1.2em;
+	padding:2px;
+	border-radius:10px;
+	box-shadow:0 0 .2em rgba(0,0,0,1);
+}
+
+#content #t1,#t2 {
+	width:100%;
+	text-align:center;
+}
+
+#content #t2 th {
+	text-transform: uppercase;
+	background:#FFFF00;
+}
+
+#content #t2 {
+	width:75%;
+	margin:auto;
+}
+
+#content #t2  {
+	border:4px SOLID #000;
+	padding:1px;
+	border-radius:7px;
+}
+
+#content #t2 td,th {
+	border:1px SOLID #000;
+}
+
+#t2 a {
+	text-decoration:none;
+}
+
+#t2 a:link, a:visited {
+	color:#0000FF;
+	background:#FFF;
+}
+
+#t2 a:hover {
+	background:#0000FF;
+	color:#FFF;
+	font-weight:bold;
+	text-decoration:blink;
+}
+
+#t2 a:active {
+	background:#000;
+	color:#FFFF00;
+}

@@ -1,0 +1,77 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px 13px 10px 13px;
+	width:400px;
+	margin:30px auto;
+	border-radius:10px;
+	box-shadow:0 0 .7em rgba(0,0,0,1);
+}
+
+#wraper form { margin:0px; }
+
+#header {
+	color:#FFFF00;
+	background:#306EFF;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-variant:small-caps;
+	font-size:22px;
+	font-weight:bold;
+	margin-bottom:10px;
+	border-radius:10px;
+}
+
+#content {
+	background:#FAF8CC;
+	border-radius:10px;
+	padding:10px;
+	box-shadow:0 0 .2em rgba(0,0,0,.5);
+}
+#content table {
+	width:100%;
+	font-family:monospace;
+	font-size:15px;
+}
+
+#content input[type="text"] {
+	font-size:16px;
+	padding:2px 0px 2px 0px;
+	text-indent:5px;
+	border:1px SOLID #000;
+	border-radius:5px;
+}
+
+#content input[type="submit"],input[type="button"] {
+	color:#FFF;
+	background:#306EFF;
+	border-radius:10px;
+	font-size:17px;
+	padding:4px;
+	box-shadow:0 0 .2em rgba(0,0,0,1);
+}
+
+#bots {
+	width:100%;
+	text-align:center;
+}
+
+#footer {
+	color:#FFF;
+	background:#000;
+	height:26px;
+	line-height:26px;
+	text-align:center;
+	font-variant:small-caps;
+	font-family:monospace;
+	font-size:15px;
+	margin-top:10px;
+	letter-spacing:1px;
+	border-radius:10px;
+}

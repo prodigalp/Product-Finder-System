@@ -1,0 +1,29 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:610px;
+	margin:30px auto;
+}
+
+#wraper form {
+	margin:0px;
+}
+
+#header {
+	color:#FFFF00;
+	background:#306EFF;
+	height:28px;
+	line-height:28px;
+	text-align:center;
+	font-size:26px;
+	font-variant:small-caps;
+	font-weight:bold;
+	letter-spacing:1px;
+}
+

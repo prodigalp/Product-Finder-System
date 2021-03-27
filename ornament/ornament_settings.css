@@ -1,0 +1,105 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:590px;
+	margin:10px auto;
+	border-radius:10px;
+	box-shadow:0 0 .7em rgba(0,0,0,1);
+}
+
+#header {
+	color:#FFF;
+	background:#306EFF;
+	font-family:serif;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-size:1.6em;
+	font-weight:bold;
+	font-variant:small-caps;
+	letter-spacing:1px;
+	margin-bottom:10px;
+	border-radius:10px;
+}
+
+#content ul {
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+}
+
+#content li {
+	float:left;
+}
+
+#dine #set {
+	opacity:0.5;
+	padding:5px;
+	border:2px SOLID #306EFF;
+	margin:0px 5px 10px 7px;
+	border-radius:10px;
+}
+
+#content #set img {
+	height:100px;
+	width:100px;
+	margin:10px;
+	box-shadow:0 0 .3em rgba(0,0,0,.3);
+	border-radius:10px;
+}
+
+#content #set a:hover img {
+	height:100px;
+	width:100px;
+}
+
+#set #lset {
+	color:#FFF;
+	background:#306EFF;
+	text-align:center;
+	margin:0px 10px 0px 0px;
+	border-radius:5px;
+	padding:2px;
+	font-weight:bold;
+}
+
+#set #lset a:link, a:visited {
+	color:#FFF;
+	background:#306EFF;
+	text-decoration:none;
+}
+
+#set #lset a:hover {
+	color:#00FF00;
+}
+
+#set #lset a:active {
+	color:#FFF;
+	background:#000;
+}
+
+#reset {
+	clear:both;
+}
+
+#footer {
+	color:#00FF00;
+	background:#000;
+	font-family:serif;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-size:1em;
+	font-weight:bold;
+	font-variant:small-caps;
+	letter-spacing:1px;
+	border-radius:10px;
+}
+
+

@@ -1,0 +1,12 @@
+Duplicated entry
+Agency
+Operator
+Reliever
+Trainor
+Supervisor
+Merge
+Product
+Clear all
+Clear one
+Group
+Credits

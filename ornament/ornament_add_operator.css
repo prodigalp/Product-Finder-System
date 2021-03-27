@@ -1,0 +1,85 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:410px;
+	margin:30px auto;
+	border-radius:10px;
+	box-shadow:0 0 .7em rgba(0,0,0,1);
+}
+
+#header {
+	color:#FFF;
+	background:#306EFF;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	font-family:serif;
+	font-size:28px;
+	font-weight:bold;
+	font-variant:small-caps;
+	text-shadow:2px 1px 1px #000;
+	letter-spacing:2px;
+	margin-bottom:10px;
+	border-radius:10px;
+}	
+
+#content table {
+	border:4px SOLID #306EFF;
+	border-radius:10px;
+	padding:10px;
+	width:100%;
+	box-shadow:0 0 .1em rgba(0,0,0,.7);
+}
+
+#content table td {
+	font-family:monospace;
+	font-size:15px;
+	font-family:arial;
+	padding:2px;
+}
+
+#content input[type="text"], input[type="password"] {
+	font-size:17px;
+	text-indent:5px;
+	border:1px SOLID #306EFF;
+	border-radius:5px;
+	padding:1px;
+}
+
+
+#content input[type="file"] {
+	border:1px SOLID #000;
+	
+}
+
+#content input[type="submit"], input[type="button"] {
+	color:#FFF;
+	background:#306EFF;
+	border-radius:10px;
+	font-size:16px;	
+	box-shadow:0 0 .2em rgba(0,0,0,1);
+}
+
+#content #bots {
+	text-align:center;
+}
+
+#footer {
+	color:#00FF00;
+	background:#000;
+	height:25px;
+	line-height:25px;
+	text-align:center;
+	font-family:arial,serif;
+	font-family:monospace;
+	border-radius:10px;
+	margin-top:10px;
+	letter-spacing:1px;
+}
+	

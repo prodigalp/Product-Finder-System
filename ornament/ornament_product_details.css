@@ -1,0 +1,98 @@
+body {
+	background:#306EFF;
+	margin:0px;
+	padding:0px;
+}
+
+#wraper {
+	background:#FFF;
+	padding:10px;
+	width:700px;
+	margin:25px auto;
+	border-radius:10px;
+	box-shadow:0 0 .7em rgba(0,0,0,1);
+}
+
+#header {
+	color:#FFF;
+	background:#306EFF;
+	height:30px;
+	line-height:30px;
+	text-indent:5px;
+	font-size:22px;
+	font-weight:bold;
+	font-family:serif;
+	text-transform:uppercase;
+	margin-bottom:10px;
+	text-align:center;
+	border-radius:10px;
+	box-shadow:0 0 .2em rgba(0,0,0,.5);
+	
+}
+
+#content {
+	float:right;
+	width:280px;
+	text-align:center;
+}
+
+#content #pbord img {
+	height:240px;
+	width:250px;
+	box-shadow:0 0 .3em rgba(0,0,0,.7);
+	padding:10px;
+	border-radius:15px;
+	margin-top:5px;
+}
+
+#content input[type="button"] {
+	background:#306EFF;
+	color:#FFF;
+	font-size:18px;
+	border-radius:10px;
+	box-shadow:0 0 .2em rgba(0,0,0,1);
+	padding:3px;
+}
+
+#tb2 td {
+	padding:4px;
+}
+
+#tb2 {
+	width:100%;
+	text-align:center;
+}
+
+
+#C1 td {
+	font-size:17px;
+}
+#bets input[type="text"] {
+	background:#00FF00;
+	font-size:20px;
+	text-indent:8px;
+	border-radius:8px;
+	border:1px SOLID #306EFF;
+	padding:3px 0px 3px 0px;
+}
+
+
+#wraper	form {
+	margin:0px;
+	padding:0px;
+}
+
+#footer {
+	color:#00FF00;
+	background:#000;
+	height:30px;
+	line-height:30px;
+	text-indent:5px;
+	font-variant:small-caps;
+	letter-spacing:1px;
+	font-size:16px;
+	font-family:monospace;
+	text-align:center;
+	border-radius:10px;
+	margin-top:5px;
+}
